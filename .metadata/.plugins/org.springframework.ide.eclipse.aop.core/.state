@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring2-mvc-xml-hello-world"/>
+<aop-project name="demo2"/>
+<aop-project name="demo3"/>
+</aop-reference-model>

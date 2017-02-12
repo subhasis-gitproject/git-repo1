@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Feb 11 14:01:21 PST 2017
+org.eclipse.jst.jee.server\:demo1=C\:\\Users\\Subhasis\\Downloads\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\demo1
+org.eclipse.jst.j2ee.server\:spring2-mvc-xml-hello-world=C\:\\Users\\Subhasis\\Downloads\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\spring2-mvc-xml-hello-world
